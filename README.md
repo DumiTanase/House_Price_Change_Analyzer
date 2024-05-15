@@ -1,1 +1,2 @@
 # House_Price_Change_Analyzer
+# This program computes the fractional change in house prices over August 2022 to August 2023 for a user-selected region. It loads data from a CSV file containing house price information by type(e.g. detached, semi-detached). After selecting a region, the program calculates the fractional change for each house type and plots a graph displaying the changes over the specified period. 
